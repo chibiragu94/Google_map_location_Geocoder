@@ -68,6 +68,6 @@ Permission's
   # GeoCoder
   geocoder: ^0.2.1
 
-  # Taost
+  # Toast
   fluttertoast: ^7.1.6
 ```
